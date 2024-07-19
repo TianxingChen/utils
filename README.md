@@ -1,7 +1,7 @@
 # Utils
 arXiv-latex-cleaner: [Github Repo](https://github.com/google-research/arxiv-latex-cleaner)
 
-A helpful GPU-usage watcher: pip install nvitop
+A helpful GPU-usage watcher: `pip install nvitop`
 
 Point Cloud Viewer: `sudo apt-get install pcl-tools` and the `pcl_viewer xxx.pcd`
 
