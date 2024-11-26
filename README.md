@@ -9,6 +9,8 @@ A helpful GPU-usage watcher: `pip install nvitop`
 
 Point Cloud Viewer: `sudo apt-get install pcl-tools` and the `pcl_viewer xxx.pcd`
 
+Mesh Downsampling: [meshlab](https://github.com/cnr-isti-vclab/meshlab)
+
 Shields.io: Concise, consistent, and legible badges: [link](https://shields.io/)
 
 # Common Problem
